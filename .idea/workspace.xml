@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7923a8a-8afe-4777-b63b-0060b39f0025" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Application\Professional Application\Deploy\Cangku" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Deploy/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\Application\Professional Application\Deploy\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28mjXLbji8WzdRvlVkbEhiOXO4P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/img" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Application\Professional Application\Data\OA_xlb\src\main\resources\static\img" />
+      <recent name="T:\idea-project1\OaBoManagement\src\main\resources\static\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="OA_xlb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xl.oa.OaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Xlibi\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7923a8a-8afe-4777-b63b-0060b39f0025" name="Changes" comment="" />
+      <created>1651828699952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651828699952</updated>
+      <workItem from="1651828701744" duration="9897000" />
+      <workItem from="1651839348946" duration="1890000" />
+      <workItem from="1651847445190" duration="3774000" />
+      <workItem from="1651867710828" duration="2184000" />
+      <workItem from="1651883363952" duration="10581000" />
+      <workItem from="1652352288892" duration="431000" />
+      <workItem from="1652352879150" duration="3585000" />
+      <workItem from="1652399933218" duration="56000" />
+      <workItem from="1652400013686" duration="106000" />
+      <workItem from="1652400237356" duration="53000" />
+      <workItem from="1652664872626" duration="895000" />
+      <workItem from="1652697573895" duration="900000" />
+      <workItem from="1652748775356" duration="2766000" />
+      <workItem from="1652768175246" duration="799000" />
+      <workItem from="1652793398891" duration="3518000" />
+      <workItem from="1652828619827" duration="21813000" />
+      <workItem from="1652874176456" duration="1245000" />
+      <workItem from="1652920533189" duration="2909000" />
+      <workItem from="1653170363855" duration="4106000" />
+      <workItem from="1653263273880" duration="4893000" />
+      <workItem from="1653349352543" duration="6948000" />
+      <workItem from="1653435803852" duration="2863000" />
+      <workItem from="1653901686095" duration="2344000" />
+      <workItem from="1654043807909" duration="1269000" />
+      <workItem from="1654159207230" duration="905000" />
+      <workItem from="1654579933113" duration="7016000" />
+      <workItem from="1654637681779" duration="21540000" />
+      <workItem from="1654914933606" duration="1745000" />
+      <workItem from="1654948395198" duration="6000" />
+      <workItem from="1654987386477" duration="2727000" />
+      <workItem from="1655589153570" duration="1257000" />
+      <workItem from="1655600713892" duration="648000" />
+      <workItem from="1655603813899" duration="1021000" />
+      <workItem from="1656062536097" duration="1018000" />
+      <workItem from="1656074345834" duration="32000" />
+      <workItem from="1656107693359" duration="698000" />
+      <workItem from="1656225418745" duration="809000" />
+      <workItem from="1656741826934" duration="2947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xl/oa/project/controller/AttendController.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

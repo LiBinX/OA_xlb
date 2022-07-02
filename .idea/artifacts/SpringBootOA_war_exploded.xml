@@ -1,0 +1,121 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringBootOA:war exploded">
+    <output-path>$PROJECT_DIR$/target/oaBoManagement-0.0.1-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>SpringBootOA</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="OA_xlb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.11" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.11" />
+          <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.17" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring4:3.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf:3.0.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.attoparser:attoparser:2.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.5.RELEASE" />
+          <element id="library" level="project" name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:2.3.0" />
+          <element id="library" level="project" name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-expression-processor:1.1.3" />
+          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:2.4.15" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.31" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-annotations-api:8.5.31" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.31" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.31" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:5.3.6.Final" />
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.3.2.Final" />
+          <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.3.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.11.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.11" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="library" level="project" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-starter:1.3.2" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jdbc:8.5.31" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:8.5.31" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:1.3.2" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.6" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.2" />
+          <element id="library" level="project" name="Maven: org.activiti:activiti-spring-boot-starter-basic:5.21.0" />
+          <element id="library" level="project" name="Maven: org.activiti:activiti-engine:5.21.0" />
+          <element id="library" level="project" name="Maven: org.activiti:activiti-bpmn-converter:5.21.0" />
+          <element id="library" level="project" name="Maven: org.activiti:activiti-bpmn-model:5.21.0" />
+          <element id="library" level="project" name="Maven: org.activiti:activiti-process-validation:5.21.0" />
+          <element id="library" level="project" name="Maven: org.activiti:activiti-image-generator:5.21.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-email:1.4" />
+          <element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.5.6" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1.1" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:2.9.9" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.activiti:activiti-spring:5.21.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-orm:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:1.8.4" />
+          <element id="library" level="project" name="Maven: javax.transaction:jta:1.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.3.2" />
+          <element id="library" level="project" name="Maven: eu.bitwalker:UserAgentUtils:1.21" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.1" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.2" />
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.6" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:1.5.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.13" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.47" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.46" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.18" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-lang:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-cache:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-hash:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-core:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-cipher:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-config-core:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-config-ogdl:1.4.0" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.3" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-event:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-ehcache:1.4.0" />
+          <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.6.11" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-web:1.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-spring:1.4.0" />
+          <element id="library" level="project" name="Maven: com.github.theborakompanioni:thymeleaf-extras-shiro:2.0.0" />
+          <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper-spring-boot-starter:1.2.3" />
+          <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper-spring-boot-autoconfigure:1.2.3" />
+          <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:5.1.2" />
+          <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:1.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/oaBoManagement-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="SpringBootOA/web/Web" />
+    </root>
+  </artifact>
+</component>
